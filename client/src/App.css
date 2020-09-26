@@ -33,10 +33,12 @@ a{
   justify-content: space-around;
 }
 
-.item{
+.item {
   width: 30%;
+  margin-bottom: 10px;
+  height: 150px;
+  width: 180px;
 }
-
 .home-card{
   max-width: 500px;
   height: max-content;
